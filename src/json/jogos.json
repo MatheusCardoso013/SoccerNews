@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "timeCasa": "san",
+        "timeFora": "pal",
+        "placarCasa": 2,
+        "placarFora": 1
+    },
+    {
+        "id": 2,
+        "timeCasa": "cor",
+        "timeFora": "sao",
+        "placarCasa": 0,
+        "placarFora": 0
+    },
+    {
+        "id": 3,
+        "timeCasa": "ars",
+        "timeFora": "bmn",
+        "placarCasa": 1,
+        "placarFora": 2
+    },
+    {
+        "id": 4,
+        "timeCasa": "rmd",
+        "timeFora": "city",
+        "placarCasa": 3,
+        "placarFora": 1
+    },
+    {
+        "id": 5,
+        "timeCasa": "psg",
+        "timeFora": "fcb",
+        "placarCasa": 1,
+        "placarFora": 1
+    },
+    {
+        "id": 6,
+        "timeCasa": "atm",
+        "timeFora": "bvb",
+        "placarCasa": 1,
+        "placarFora": 0
+    }
+]
